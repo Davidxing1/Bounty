@@ -1,1 +1,1 @@
-USDC
+USDT
